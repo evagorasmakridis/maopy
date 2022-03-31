@@ -30,7 +30,8 @@ To get started, install the message passing library mpi4py,
 conda install -c anaconda mpi4py
 ```
 Then, run setup.sh by:
-```./setup.sh
+```bash
+./setup.sh
 ```
 Now just clone this repo and you're good to go!
 
